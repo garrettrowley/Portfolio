@@ -1,8 +1,15 @@
+body {
+  background-image: url("../img/pdx.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .jumbotron{
   padding: 4px;
-  background-color:lightgreen;
+  background-color: inherit;
   font-size: 24;
-  margin-left: auto;
+  color: white;
+
 }
 
 h1{
@@ -10,6 +17,22 @@ h1{
 }
 
 .links{
-  text-align: center;
+  text-align: auto;
   letter-spacing:: 4px;
+  text-decoration: none;
+}
+
+.col-md-12{
+  background-color: #D6BEBA;
+  padding: 0px
+}
+
+.center{
+  text-align: center
+}
+
+.img{
+  float:left;
+  height: 20px;
+  width:20px;
 }
