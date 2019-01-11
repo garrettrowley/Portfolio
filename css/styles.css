@@ -46,6 +46,10 @@ a:hover{
   text-align: center
 }
 
+.right{
+  text-align: right
+}
+
 .aboutimg{
   float:left;
   height: 250px;
@@ -54,4 +58,10 @@ a:hover{
   padding-right: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.ulh2{
+  text-align: center;
+  text-decoration: inherit;
+  font-size: 18pt;
 }
