@@ -1,0 +1,15 @@
+.jumbotron{
+  padding: 4px;
+  background-color:lightgreen;
+  font-size: 24;
+  margin-left: auto;
+}
+
+h1{
+  text-align: center;
+}
+
+.links{
+  text-align: center;
+  letter-spacing:: 4px;
+}
