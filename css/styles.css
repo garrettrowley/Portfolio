@@ -22,17 +22,36 @@ h1{
   text-decoration: none;
 }
 
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color:white;
+  text-decoration: none;
+}
+
 .col-md-12{
-  background-color: #D6BEBA;
-  padding: 0px
+  padding: 0px;
+  font-size: 16pt;
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .center{
   text-align: center
 }
 
-.img{
+.aboutimg{
   float:left;
-  height: 20px;
-  width:20px;
+  height: 250px;
+  width:250px;
+  padding-left: 2px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
