@@ -53,7 +53,7 @@ a:hover{
 .aboutimg{
   float:left;
   height: 250px;
-  width:250px;
+  width:300px;
   padding-left: 2px;
   padding-right: 10px;
   padding-top: 10px;
@@ -61,7 +61,11 @@ a:hover{
 }
 
 .ulh2{
-  text-align: center;
   text-decoration: inherit;
   font-size: 18pt;
+}
+
+.boldital{
+  font-style: italic;
+  font-weight: bold;
 }
