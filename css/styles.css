@@ -1,7 +1,8 @@
-body {
+body{
   background-image: url("../img/pdx.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .jumbotron{
@@ -9,7 +10,6 @@ body {
   background-color: inherit;
   font-size: 24;
   color: white;
-
 }
 
 h1{
@@ -20,9 +20,10 @@ h1{
   text-align: auto;
   letter-spacing:: 4px;
   text-decoration: none;
+  word-spacing: 12px
 }
 
-a{
+a.link{
   color: white;
   text-decoration: none;
 }
@@ -68,4 +69,9 @@ a:hover{
 .boldital{
   font-style: italic;
   font-weight: bold;
+}
+
+h2{
+  background-color: lightpink;
+  padding: none;
 }
