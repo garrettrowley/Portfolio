@@ -76,6 +76,8 @@ h2{
   padding: none;
 }
 
-.homeimage{
-  height:500px;  
-}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
