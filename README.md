@@ -6,7 +6,9 @@
 
 ## Description
 
-_{This is just a simple portfolio made for my first solo project. It includes an about me with skills, hobbies and education included. As well as links to my coding workings}_
+_{This is just a simple portfolio made for my first solo project. It includes an about me with skills, hobbies and education included. As well as links to my coding workings. Here is the GitHub pages link https://garrettrowley.github.io/Portfolio/_}_
+
+
 
 ## Setup/Installation Requirements
 
@@ -51,4 +53,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.}*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_{Garrett Rowley}_**
+
+
+
+https://garrettrowley.github.io/Portfolio/
